@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "PayTR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://www.paytr.com/js/iframeResizer.min.js"></script>
+
+<script>iFrameResize({}, '#paytriframe');</script>
+
+
+<main class="main">
+    <div class="page-content mb-10">
+        <div class="container-fluid">
+            <div>
+                @TempData["sonuc"]
+                <iframe src='@ViewBag.tokenData' frameborder="0" scrolling="no" style="width: 100%; overflow: auto; min-height: 600px; height: 550px;"></iframe>
+            </div>
+        </div>
+
+    </div>
+</main>
+

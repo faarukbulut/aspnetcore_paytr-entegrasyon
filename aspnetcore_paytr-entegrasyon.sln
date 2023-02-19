@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore_paytr-entegrasyon", "aspnetcore_paytr-entegrasyon.csproj", "{C7E953B5-F1A8-4502-B7B1-3F83AD5C28A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E953B5-F1A8-4502-B7B1-3F83AD5C28A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E953B5-F1A8-4502-B7B1-3F83AD5C28A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E953B5-F1A8-4502-B7B1-3F83AD5C28A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E953B5-F1A8-4502-B7B1-3F83AD5C28A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D4FE5E-C54F-4A0F-9231-BA6BF4A4C4D1}
+	EndGlobalSection
+EndGlobal
