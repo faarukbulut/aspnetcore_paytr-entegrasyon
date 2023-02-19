@@ -1,1 +1,1 @@
-# aspnetcore_paytr-entegrasyon
+Newtonsoft.Json paketini kullanmanız gerekmektedir.
